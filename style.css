@@ -71,8 +71,10 @@
 
     /* for this project only */
     display: grid;
-    place-items: center;
+    place-content: center;
     margin: 1rem;
+    justify-content: center;
+    height: 100vh;
   }
 
   /* utilities */
@@ -81,7 +83,6 @@
     gap: 1rem;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
   }
 
   .visually-hidden:not(:focus):not(:active) {
