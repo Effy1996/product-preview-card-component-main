@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: (https://effy1996.github.io/)
-- Live Site URL: (https://effy1996.github.io/)
+- Solution URL: (https://effy1996.github.io/product-preview-card-component-main/)
+- Live Site URL: (https://effy1996.github.io/product-preview-card-component-main/)
 
 ## My process
 
